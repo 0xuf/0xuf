@@ -5,4 +5,4 @@
 - 📫 How to reach me [feyzian[dot]mobin[at]gmail[dot]com](mailto:feyzian.mobin@gmail.com)
 
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xuf&theme=2077) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xuf&theme=github_dark) 
