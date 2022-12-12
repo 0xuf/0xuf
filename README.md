@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @0xuf
-- 👀 I’m interested in security
-- 🌱 I’m currently learning web applications security
-- 💞️ I'm looking to collaborate on backend development [ python, Django ]
-- 📫 How to reach me [feyzian[dot]mobin[at]gmail[dot]com](mailto:feyzian.mobin@gmail.com)
-
-```python
-for 
+```yaml
+name: Mobin Feyzian
+located_in: Theran / Iran
+current_job: Freelancer
+email: feyzian.mobin@gmail.com
+education:
+  [
+    "Self-Taught Backend Developer",
+  ]
+company: Nothing yet
+fields_of_interests:
+  [
+    "Web Development",
+    "Security",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Mid-Level - Backend Developer",
+    "Junior - Web Application Security",
+    "Junior - System Administrator",
+  ]
+  
+currently_learning: ["Web Application Security"]
+hobbies: ["Gaming", "Walking", "Smoking"]
 ```
+
 ## Language and tools
 ![](https://img.shields.io/badge/Python-FCFF33?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Django-2FB443?style=for-the-badge&logo=django&logoColor=blue)
