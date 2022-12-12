@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=yellow)
 ![](https://img.shields.io/badge/Linux-7171d9?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Burp%20suite-5353e3?style=for-the-badge&logo=burp%20suite&logoColor=black)
+![](https://img.shields.io/badge/javascript-e5ff0b?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
