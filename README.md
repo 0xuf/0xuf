@@ -17,8 +17,8 @@ fields_of_interests:
 technical_background:
   [
     "Mid-Level - Backend Developer",
-    "Junior - Web Application Security",
-    "Junior - System Administrator",
+    "Junior    - Web Application Security",
+    "Junior    - System Administrator",
   ]
   
 currently_learning: ["Web Application Security"]
