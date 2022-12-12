@@ -3,10 +3,6 @@ name: Mobin Feyzian
 located_in: Theran / Iran
 current_job: Freelancer
 email: feyzian.mobin@gmail.com
-education:
-  [
-    "Self-Taught Backend Developer",
-  ]
 company: Nothing yet
 fields_of_interests:
   [
