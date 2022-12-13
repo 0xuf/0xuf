@@ -34,4 +34,4 @@ hobbies: ["Gaming", "Walking", "Smoking"]
 
 
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xuf&theme=gruvbox) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xuf&theme=radical) 
